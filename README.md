@@ -12,6 +12,8 @@
 
 ## 성능 비교 평가
 
+<img width="608" alt="image" src="https://github.com/user-attachments/assets/f6f7a0b8-334f-4dc8-9765-83807d18fb05" />
+
 ### AWS S3 버킷
 
   <img width="608" alt="image" src="https://github.com/user-attachments/assets/cfbe46b4-4345-4274-afb7-e3f07616207b" />
